@@ -1,4 +1,4 @@
-// Component for every needed book cover
+// cover for every requested book
 
 const BookCover = ({ link }) => {
   return (
