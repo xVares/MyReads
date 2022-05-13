@@ -13,10 +13,10 @@
 ---
 >### Changes and additions made by me:
 >~~~
->- components
->- component functionality
->- usage of the provided API
->- some custom css added to starter
+>• components
+>• component functionality
+>• usage of the provided API
+>• some custom css added to starter
 >~~~
 ---
 ## Udacity README.md:
